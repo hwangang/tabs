@@ -1,2 +1,2 @@
 # tabs
-[demo](https://hwangang.github.io/tabs/index.html)
+[demo](https://hwangang.github.io/tabs/tabs.html)
